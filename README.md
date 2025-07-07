@@ -76,7 +76,7 @@ Atuar como **Desenvolvedor Back-End**, contribuindo com minhas habilidades em pr
 
 ---
 
-## 🛠Habilidades Técnicas
+## Habilidades Técnicas
 
 - Java, Python, HTML, CSS, Bootstrap, JSP  
 - Spring Framework, Resilience4j, JUnit, Mockito  
